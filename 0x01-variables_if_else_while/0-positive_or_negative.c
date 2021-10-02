@@ -24,7 +24,3 @@ printf("%d is negative\n", n);
 
 	return(0);
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-
