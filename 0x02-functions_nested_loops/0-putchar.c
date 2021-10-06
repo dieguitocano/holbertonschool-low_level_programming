@@ -2,7 +2,7 @@
 
 /**
  *main - Prints putchar
- *Return: o
+ *Return: 0
  */
 int main(void)
 {
@@ -11,7 +11,9 @@ int d;
 
 for (d = 0; d <= 7; d++)
 {
+
 _putchar(c[d]);
+
 }
 _putchar('\n');
 return (0);
